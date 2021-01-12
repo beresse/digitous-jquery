@@ -1,4 +1,6 @@
-$(document).ready(function(){
+// $(".btn").addClass("btn_reveal")
+
+$(".btn").ready(function(){
     $("button").click(displaySecretText)
 }) 
 
